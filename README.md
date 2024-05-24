@@ -1,9 +1,6 @@
 <h1 align="center"> llmchain: Modern Data Transformations with LLM  </h1>
 <p align="center"> 🦀 + Large Language Models, inspired by LangChain. </p>
 <div align="center">
-    <a href="https://crates.io/crates/llmchain">
-    <img src="https://img.shields.io/crates/v/llmchain.svg" />
-    </a>
 </div>
 
 ## Features
